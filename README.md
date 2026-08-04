@@ -7,4 +7,16 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0595-big-countries) |
+## Array
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
