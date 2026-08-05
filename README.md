@@ -10,13 +10,16 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
