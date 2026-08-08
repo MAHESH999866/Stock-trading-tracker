@@ -6,4 +6,4 @@ where (e.departmentId, e.salary)in(
     select departmentId, Max(salary)
     from Employee
     Group by departmentId
-)
+);
