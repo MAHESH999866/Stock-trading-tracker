@@ -15,6 +15,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | ------- |
 | [0048-rotate-image](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
