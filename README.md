@@ -23,6 +23,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
