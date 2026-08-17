@@ -33,10 +33,12 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0344-reverse-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0344-reverse-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
