@@ -15,6 +15,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -62,9 +63,14 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
