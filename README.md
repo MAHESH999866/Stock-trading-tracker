@@ -54,6 +54,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | [0007-reverse-integer](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0048-rotate-image) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
