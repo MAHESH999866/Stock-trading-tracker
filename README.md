@@ -77,4 +77,20 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
