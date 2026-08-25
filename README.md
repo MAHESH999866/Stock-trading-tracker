@@ -42,6 +42,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0344-reverse-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -81,6 +82,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -102,4 +104,8 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0258-add-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
