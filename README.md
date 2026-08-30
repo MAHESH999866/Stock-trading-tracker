@@ -25,6 +25,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | [0152-maximum-product-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0414-third-maximum-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3731-find-missing-elements](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -116,4 +117,8 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
