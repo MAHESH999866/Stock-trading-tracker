@@ -122,4 +122,12 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
