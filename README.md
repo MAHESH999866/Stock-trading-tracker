@@ -67,6 +67,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | [0258-add-digits](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3783-mirror-distance-of-an-integer](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
