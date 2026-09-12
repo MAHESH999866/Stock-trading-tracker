@@ -17,6 +17,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | [0627-swap-sex-of-employees](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1693-daily-leads-and-partners](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1693-daily-leads-and-partners) |
 ## Array
 |  |
