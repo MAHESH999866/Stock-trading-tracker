@@ -26,6 +26,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | [0053-maximum-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0414-third-maximum-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -46,6 +47,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0345-reverse-vowels-of-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -135,4 +137,8 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
