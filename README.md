@@ -8,6 +8,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | ------- |
 | [0176-second-highest-salary](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0586-customer-placing-the-largest-number-of-orders) |
