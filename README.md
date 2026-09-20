@@ -60,6 +60,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 | [0345-reverse-vowels-of-a-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0345-reverse-vowels-of-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A simple Java console-based Stock Trading Platform built using Object-Oriented P
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/MAHESH999866/Stock-trading-tracker/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
